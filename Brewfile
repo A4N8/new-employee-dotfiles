@@ -34,6 +34,7 @@ brew 'imagemagick'
 brew 'yarn'
 
 # Apps
+cask 'notion'
 cask '1password'
 brew '1password-cli'
 cask 'caffeine'
